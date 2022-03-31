@@ -11,5 +11,4 @@ the future: https://codepen.io/sienvdb/pen/gOXVLdR\
 
 ## lab 3
 Git repository: https://github.com/Sienvdb/2imd-webtechadvanced-portfolio/tree/main/lab3-es6 
-
-Codesandbox: https://codesandbox.io/s/bold-cdn-4gkny8?file=/index.html 
+Codesandbox: https://codesandbox.io/s/bold-cdn-4gkny8?file=/classes/App.js
