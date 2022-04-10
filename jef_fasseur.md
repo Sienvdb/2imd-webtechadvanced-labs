@@ -8,3 +8,4 @@ Hi Joris, welcome to my portfolio for Webtech Advanced.
 * [LAB 1](https://github.com/jeffasseur/2IMD-webtechadvanced-portfolio/tree/main/lab1%20-%20git)
 * [LAB 2](https://github.com/jeffasseur/2IMD-webtechadvanced-portfolio/tree/main/lab2)
 * [LAB 3](https://github.com/jeffasseur/2IMD-webtechadvanced-portfolio/tree/main/lab3)
+* [LAB 4](https://github.com/jeffasseur/2IMD-webtechadvanced-portfolio/tree/main/lab4)
