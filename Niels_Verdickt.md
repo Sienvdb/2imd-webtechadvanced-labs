@@ -7,3 +7,6 @@
 # Lab 2
 * [Lab 2 - The Future](https://codepen.io/Nieeel/pen/ZEaVQBE)
 * [Lab 2 - Ticket](https://codepen.io/Nieeel/pen/eYebJZY)
+
+# Lab 3
+* [Lab 3 - IMDo](https://codepen.io/Nieeel/pen/zYpwabR)
