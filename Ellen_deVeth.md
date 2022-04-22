@@ -13,3 +13,5 @@
 
 [LAB5](https://github.com/ellendeveth/2imd-dev-lab5)
 
+[LAB6](https://github.com/ellendeveth/2imd-dev-lab6)
+
