@@ -12,3 +12,5 @@
 * Lab4 https://github.com/MarieSerroyen/2imd-webtechadvanced-portfolio/tree/main/lab4
 
 * Lab5 https://github.com/MarieSerroyen/2imd-webtechadvanced-portfolio-lab5
+
+* Lab6 https://github.com/MarieSerroyen/2imd-webtechadvanced-portfolio-lab6 
